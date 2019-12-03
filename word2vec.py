@@ -10,8 +10,8 @@ References:
 Links:
     - [Word2Vec] https://arxiv.org/pdf/1301.3781.pdf
 
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Author: Sam Rho
+Project: https://github.com/joyer7/tensorflow/
 """
 from __future__ import division, print_function, absolute_import
 

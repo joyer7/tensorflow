@@ -2,8 +2,8 @@
 
 A linear regression learning algorithm example using TensorFlow's Eager API.
 
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Author: Sam Rho
+Project: https://github.com/joyer7/tensorflow/
 '''
 from __future__ import absolute_import, division, print_function
 

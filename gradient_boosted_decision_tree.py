@@ -7,8 +7,8 @@ handwritten digits as training samples (http://yann.lecun.com/exdb/mnist/).
 Links:
     [MNIST Dataset](http://yann.lecun.com/exdb/mnist/).
 
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Author: Sam Rho
+Project: https://github.com/joyer7/tensorflow/
 """
 
 from __future__ import print_function

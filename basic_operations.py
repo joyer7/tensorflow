@@ -1,8 +1,8 @@
 '''
 Basic Operations example using TensorFlow library.
 
-Author: Aymeric Damien
-Project: https://github.com/aymericdamien/TensorFlow-Examples/
+Author: Sam Rho
+Project: https://github.com/joyer7/tensorflow/
 '''
 
 from __future__ import print_function
